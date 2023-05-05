@@ -1,0 +1,3 @@
+#The file should be formatted in a dictionary with Username;passwords
+
+johndoe;securepassword1234 # When the passwords are hashed though, they will appear as a string of random characters. 
